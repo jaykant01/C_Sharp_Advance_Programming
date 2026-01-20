@@ -6,7 +6,9 @@ class Program
     {
         //UsernameValidator.RunDemo();
 
-        LicensePlateValidator.RunDemo();
+        //LicensePlateValidator.RunDemo();
+
+        HexColorValidator.RunDemo();
 
         Console.ReadKey();
     }
