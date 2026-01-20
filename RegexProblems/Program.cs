@@ -4,7 +4,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        UsernameValidator.RunDemo();
+        //UsernameValidator.RunDemo();
+
+        LicensePlateValidator.RunDemo();
 
         Console.ReadKey();
     }
