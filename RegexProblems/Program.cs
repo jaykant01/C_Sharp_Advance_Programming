@@ -22,8 +22,10 @@ class Program
 
         //BadWordCensor.RunDemo();
 
-        IpAddressValidator.RunDemo();
+        //IpAddressValidator.RunDemo();
 
-        Console.ReadLine();
+        CreditCardValidator.RunDemo();
+
+        Console.ReadKey();
     }
 }
