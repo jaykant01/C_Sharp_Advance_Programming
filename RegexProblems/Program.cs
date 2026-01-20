@@ -12,8 +12,12 @@ class Program
 
         //EmailExtractor.RunDemo();
 
-        CapitalizedWordExtractor.RunDemo();
+        //CapitalizedWordExtractor.RunDemo();
 
-        Console.ReadKey();
+        DateExtractor.RunDemo();
+
+    
+
+        Console.ReadLine();
     }
 }
