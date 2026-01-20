@@ -14,9 +14,11 @@ class Program
 
         //CapitalizedWordExtractor.RunDemo();
 
-        DateExtractor.RunDemo();
+        //DateExtractor.RunDemo();
 
-    
+        LinkExtractor.RunDemo();
+
+
 
         Console.ReadLine();
     }
