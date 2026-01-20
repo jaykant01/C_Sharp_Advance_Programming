@@ -24,7 +24,9 @@ class Program
 
         //IpAddressValidator.RunDemo();
 
-        CreditCardValidator.RunDemo();
+        //CreditCardValidator.RunDemo();
+
+        CurrencyExtractor.RunDemo();
 
         Console.ReadKey();
     }
