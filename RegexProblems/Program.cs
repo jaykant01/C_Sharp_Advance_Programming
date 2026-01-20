@@ -10,7 +10,9 @@ class Program
 
         //HexColorValidator.RunDemo();
 
-        EmailExtractor.RunDemo();
+        //EmailExtractor.RunDemo();
+
+        CapitalizedWordExtractor.RunDemo();
 
         Console.ReadKey();
     }
