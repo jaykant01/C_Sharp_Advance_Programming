@@ -26,7 +26,9 @@ class Program
 
         //CreditCardValidator.RunDemo();
 
-        CurrencyExtractor.RunDemo();
+        //CurrencyExtractor.RunDemo();
+
+        SsnValidator.RunDemo();
 
         Console.ReadKey();
     }
