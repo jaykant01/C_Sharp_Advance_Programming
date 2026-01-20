@@ -5,13 +5,13 @@ class Program
     static void Main(string[] args)
     {
         // Problem 1
-        EmployeeFilter.Run();
+        //EmployeeFilter.Run();
 
         // Pronlem 2
         //StringSorter.Run();
 
         // Problem 3
-        //ProductGrouping.Run();
+        ProductGrouping.Run();
 
         Console.ReadKey();
     }
