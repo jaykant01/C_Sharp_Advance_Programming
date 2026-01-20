@@ -8,7 +8,9 @@ class Program
 
         //LicensePlateValidator.RunDemo();
 
-        HexColorValidator.RunDemo();
+        //HexColorValidator.RunDemo();
+
+        EmailExtractor.RunDemo();
 
         Console.ReadKey();
     }
