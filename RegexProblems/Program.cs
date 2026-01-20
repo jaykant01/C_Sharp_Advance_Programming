@@ -20,7 +20,9 @@ class Program
 
         //SpaceNormalizer.RunDemo();
 
-        BadWordCensor.RunDemo();
+        //BadWordCensor.RunDemo();
+
+        IpAddressValidator.RunDemo();
 
         Console.ReadLine();
     }
