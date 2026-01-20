@@ -16,8 +16,9 @@ class Program
 
         //DateExtractor.RunDemo();
 
-        LinkExtractor.RunDemo();
+        //LinkExtractor.RunDemo();
 
+        SpaceNormalizer.RunDemo();
 
 
         Console.ReadLine();
