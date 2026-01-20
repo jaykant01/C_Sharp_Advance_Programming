@@ -18,8 +18,9 @@ class Program
 
         //LinkExtractor.RunDemo();
 
-        SpaceNormalizer.RunDemo();
+        //SpaceNormalizer.RunDemo();
 
+        BadWordCensor.RunDemo();
 
         Console.ReadLine();
     }
